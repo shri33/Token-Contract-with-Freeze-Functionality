@@ -98,7 +98,7 @@ Contributions are welcome! Please fork the repository and submit a pull request 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## Contact
-For any questions or inquiries, please contact [Your Name] at [your.email@example.com].
+For any questions or inquiries, please contact [Shri Srivastava] at [shrisrivastava2@gmail.com.com].
 ```
 
-Replace the placeholders such as `[Your Name]`, `<Your_Stellar_Testnet_Contract_Address>`, and `<your-stellar-account>` with your actual information. This `README.md` file provides a comprehensive overview of your project, its features, and how to use it.
+Replace the placeholders such as `[shri srivastava]`, `<Your_Stellar_Testnet_Contract_Address>`, and `<your-stellar-account>` with your actual information. This `README.md` file provides a comprehensive overview of your project, its features, and how to use it.
